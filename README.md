@@ -1,7 +1,7 @@
 ## Oie! eu sou a Rebeca Sousa
 
 - 💻 Técnica em informática pelo IFMG
-- 📕 Atualmente cursando Ciência da computação ...
+- 📕 Atualmente cursando Engenharia de computação na UFMG
 
 <div>
   <a href="https://github.com/rebecaspinho">
