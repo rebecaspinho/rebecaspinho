@@ -1,7 +1,7 @@
 ## Rebeca Sousa Pinho
 
 * Técnica em informática pelo IFMG
-* Atualmente cursando Engenharia de computação na UFMG
+* Graduanda em Engenharia de Computação pela UFMG
 
 <table>
   <tr>
