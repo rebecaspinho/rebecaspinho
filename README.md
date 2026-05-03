@@ -3,10 +3,7 @@
 - 💻 Técnica em informática pelo IFMG
 - 📕 Atualmente cursando Engenharia de computação na UFMG
 
-<div>
-  <a href="https://github.com/rebecaspinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaspinho&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecaspinho&layout=compact&langs_count=16&theme=dracula)](https://github.com/rebecaspinho)
 
 <table>
   <tr>
